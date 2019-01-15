@@ -301,28 +301,6 @@ years is a key parameter to generating this list.
 A more careful study of the influence of this parameter rather than an
 arbitrary choice of 100 days could produce very interesting results.
 
-\begin{table}
-    \centering
-    \caption{\label{Tab:Known} The 10 most shocking words in each category for 
-the Known Words corpus.}
-    \begin{tabular}{clll}
-        \toprule
-        Rank & Word & Hashtag & User \\
-        \midrule
-        1 & 010x2163x8847 & #bbnaija & @chuuzus \\
-        2 & gander & #cncowners & @mariobautistamb \\
-        3 & berinteraksi & #wrestlemania & @huniverses \\
-        4 & boo'd & #toulouse & @vivo\_india \\
-        5 & oylar & #backtoyou & @dismiss \\
-        6 & sdcc & #mvsales & @baneandlewis \\
-        7 & [08 & #shameless & @debryanshow \\
-        8 & kanye's & #hwpl & @digvijaya\_28 \\
-        9 & currentcet & #mbs & @soonsvt \\
-        10 & esquentar & #stevenuniverse & @amas\\
-        \bottomrule
-    \end{tabular}
-\end{table}
-
 <table>
 <caption> Table 2: The 10 most shocking words in each category for the Known
 Words corpus </caption>
@@ -412,28 +390,6 @@ pull out a trend just from appearances,
 and as is shown below,
 they do not perform well for the story extractor.
 
-\begin{table}
-    \centering
-    \caption{\label{Tab:Popular} The 10 most shocking words in each category for 
-the Popular Words corpus.}
-    \begin{tabular}{clll}
-        \toprule
-        Rank & Word & Hashtag & User \\
-        \midrule
-        1 & vineyard & #myfirsttweet & @itslifefact \\
-        2 & staan & #cute & @wef \\
-        3 & frappe & #hotel & @delta \\
-        4 & puas & #nike & @giphy \\
-        5 & brasileira & #italia & @facebook \\
-        6 & giovanna & #southkorea & @americanair \\
-        7 & niemand & #artist & @r\_sidney\_v \\
-        8 & vakit & #cinema & @amazon \\
-        9 & pantera & #government & @applesupport \\
-        10 & nyaman & #sunrise & @ajarabic\\
-        \bottomrule
-    \end{tabular}
-\end{table}
-
 <table>
 <caption> Table 3: The 10 most shocking words in each category for the Popular
 Words corpus </caption>
@@ -505,7 +461,6 @@ Words corpus </caption>
 </tr>
 </table>
 
-
 For the story extraction,
 I found great story detection for the emergent words,
 but the story detection method was not sucessful in finding the story
@@ -541,19 +496,12 @@ surrounding these words.
 More research is required to improve the story finding algorithm for spikes in
 the more ingrained words.
 
-\begin{figure}
-    \centering
-    \begin{subfigure}{0.85\textwidth}
-        \includegraphics[width=\textwidth]{kanye's-2018-shock-event-comparison.jpg}
-    \end{subfigure}
-
-    \begin{subfigure}{0.85\textwidth}
-        \includegraphics[width=\textwidth]{frappe-2018-shock-event-comparison.jpg}
-    \end{subfigure}
-    \caption{\label{Fig:BadStory} The 10 words with the smallest mean square
-error with respect to the shocking words kanye's (on the top) and 
-frapped (on the bottom).}
-\end{figure}
+{% include image.html url="plots/kanye's-2018-shock-event-comparison.jpg"
+description="" %}
+{% include image.html url="plots/frappe-2018-shock-event-comparison.jpg"
+description="Figure 5: The 10 words with the smallest mean square error with
+respect to the shocking words knaye's (on the top) and frappe (on the 
+bottom)." %}
 
 ## Future Work
 
