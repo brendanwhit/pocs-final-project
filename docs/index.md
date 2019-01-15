@@ -210,7 +210,7 @@ This is a striking display of a moment of rapid emergence,
 lingering persistence of the idea,
 and then immediate decay at the end of the contest.
 
-Table~\ref{Tab:Emergent} contains the top 10 most shocking events for the
+Table 1 contains the top 10 most shocking events for the
 following 3 categories:
 Words,
 Hashtags,
@@ -244,6 +244,23 @@ the Emergent Words corpus.}
         \bottomrule
     \end{tabular}
 \end{table}
+
+Rank | Word | Hashtag | User
+--- | --- | --- | ---
+1 | 'tear' | \#bestboyband | @davidhogg111 
+2 | rate] | \#marchforourlives | @emma4change 
+3 | marjory | \#parkland | @sjofficial 
+4 | come99 | \#ninepercent | @jewepri\_staff 
+5 | stc79 | \#nct2018 | @shindeshilpas 
+6 | 4/23 | \#greatawakening | @cameron\_kasky 
+7 | killmonger | \#poshmark | @247jimin 
+8 | descargables | \#mdrive | @neiljedcastro 
+9 | fessy | \#fakelove | @jaclyncorin 
+10 | stoneman | \#nbaplayoffs | @projetocabrabr
+[Table 1: The 10 most shocking words in each category for the Emergent Word
+corpus]
+
+
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
