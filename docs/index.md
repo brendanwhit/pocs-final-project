@@ -89,10 +89,6 @@ we have shown that the calculation of our expected ranks from the prior
  </figure>
 </p>
 
-A | B
---- | ---
-This is a test | of the caption
-[caption test][test]
 
 The final step for the shock event detection was determining the size for
 each continuous event.
@@ -262,10 +258,6 @@ Rank | Word | Hashtag | User
 8 | descargables | \#mdrive | @neiljedcastro 
 9 | fessy | \#fakelove | @jaclyncorin 
 10 | stoneman | \#nbaplayoffs | @projetocabrabr
-[Table 1: The 10 most shocking words in each category for the Emergent Word
-corpus][tab-1]
-
-
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
