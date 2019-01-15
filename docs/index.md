@@ -465,7 +465,7 @@ For the story extraction,
 I found great story detection for the emergent words,
 but the story detection method was not sucessful in finding the story
 around shock events that weren't massive.
-Figure~\ref{Fig:GoodStory} shows the story extractor getting very good results
+Figure 4 shows the story extractor getting very good results
 for the most shocking word #bestboyband and marjory.
 Most of the success in detecting these emerging stories stems from the
 likelihood that the words associated with the shocking words had also
@@ -476,13 +476,6 @@ also exhibit such a large rise.
 Therefore,
 mean square error was a fantastic choice for story differentiation.
 
-{% include image.html url="plots/bestboyband-2018-shock-event-comparison.jpg"
-description="" %}
-{% include image.html url="plots/marjory-2018-shock-event-comparison.jpg"
-description="Figure 4: The 10 words with the smallest mean square error with
-respect to the shocking words #bestboyband (on the top) and marjory (on the 
-bottom)." %}
-
 <p align="middle">
  <figure>
   <img src="plots/bestboyband-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/><img src="plots/marjory-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/>
@@ -492,11 +485,9 @@ right). </figcaption>
  </figure>
 </p>
 
-
-
 When the story finder method is applied to the more popular words,
 we do not get the striking results observed from the emergent word analysis.
-Figure~\ref{Fig:BadStory} shows the results from applying the story finder to
+Figure 5 shows the results from applying the story finder to
 the words "kanye's",
 from the Known Words Corpus,
 and "frappe",
@@ -505,13 +496,6 @@ These story plots do not appear to tease apart the supplemental information
 surrounding these words.
 More research is required to improve the story finding algorithm for spikes in
 the more ingrained words.
-
-{% include image.html url="plots/kanye's-2018-shock-event-comparison.jpg"
-description="" %}
-{% include image.html url="plots/frappe-2018-shock-event-comparison.jpg"
-description="Figure 5: The 10 words with the smallest mean square error with
-respect to the shocking words knaye's (on the top) and frappe (on the 
-bottom)." %}
 
 <p align="middle">
  <figure>
