@@ -257,8 +257,8 @@ Rank | Word | Hashtag | User
 8 | descargables | #mdrive | @neiljedcastro 
 9 | fessy | #fakelove | @jaclyncorin 
 10 | stoneman | #nbaplayoffs | @projetocabrabr
-[Table 1: The 10 most shocking words in each category for the Emergent Words
-corpus][tab-1]
+[Table 1: The 10 most shocking words in each category for the Emergent Words corpus]
+
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
