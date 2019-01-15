@@ -179,8 +179,8 @@ for all of the top 10 most shocking words in the Emergent Words VACC run display
 emergence (hence the name).
 
 The official most shocking word in 2018 according the word rank plots is
-\#bestboyband. 
-Figure~\ref{Fig:bestboyband} shows the rank plot of the word \#bestboyband in
+#bestboyband. 
+Figure~\ref{Fig:bestboyband} shows the rank plot of the word #bestboyband in
 normal scaling and log scaling.
 \begin{figure}
     \centering
@@ -191,11 +191,11 @@ normal scaling and log scaling.
     \begin{subfigure}{0.45\textwidth}
         \includegraphics[width=\textwidth]{bestboyband-2018-LOG.jpg}
     \end{subfigure}
-    \caption{\label{Fig:bestboyband} The rise to fame of the word \#bestboyband
+    \caption{\label{Fig:bestboyband} The rise to fame of the word #bestboyband
 in 2018.  The figure on the left is the rise plotted on a normal scale.
 The figure on the right is plotted on log scale.}
 \end{figure}
-\#bestboyband jumped from nothingness to inside the top 100 words in the middle
+#bestboyband jumped from nothingness to inside the top 100 words in the middle
 of January.
 It remained within the top 1000 words on Twitter until the shock detection
 method finally caught up to the new status of the word and rendered it not 
@@ -205,7 +205,7 @@ hosted by IHeartRadio.
 The contest must have lasted for about two months as shown by the sharp decline
 following the middle of March.
 By the beginning of May,
-\#bestboyband is no longer consistently ranking in the top 100000 words used
+#bestboyband is no longer consistently ranking in the top 100000 words used
 on Twitter.
 This is a striking display of a moment of rapid emergence,
 lingering persistence of the idea,
@@ -220,7 +220,7 @@ As is evident by the tables,
 some words that make it in must be part of a bigger word,
 or some common phrase (see rate]).
 All of the entries in this table,
-except for \#nbaplayoffs,
+except for #nbaplayoffs,
 had never reached the top 100000 ranks for Twitter before their emergence
 into the daily ranks.
 
@@ -232,37 +232,37 @@ the Emergent Words corpus.}
         \toprule
         Rank & Word & Hashtag & User \\
         \midrule
-        1 & `tear' & \#bestboyband & @davidhogg111 \\
-    2 & rate] & \#marchforourlives & @emma4change \\
-        3 & marjory & \#parkland & @sjofficial \\
-        4 & come99 & \#ninepercent & @jewepri\_staff \\
-        5 & stc79 & \#nct2018 & @shindeshilpas \\
-        6 & 4/23 & \#greatawakening & @cameron\_kasky \\
-        7 & killmonger & \#poshmark & @247jimin \\
-        8 & descargables & \#mdrive & @neiljedcastro \\
-        9 & fessy & \#fakelove & @jaclyncorin \\
-        10 & stoneman & \#nbaplayoffs & @projetocabrabr\\
+        1 & `tear' & #bestboyband & @davidhogg111 \\
+    2 & rate] & #marchforourlives & @emma4change \\
+        3 & marjory & #parkland & @sjofficial \\
+        4 & come99 & #ninepercent & @jewepri\_staff \\
+        5 & stc79 & #nct2018 & @shindeshilpas \\
+        6 & 4/23 & #greatawakening & @cameron\_kasky \\
+        7 & killmonger & #poshmark & @247jimin \\
+        8 & descargables & #mdrive & @neiljedcastro \\
+        9 & fessy & #fakelove & @jaclyncorin \\
+        10 & stoneman & #nbaplayoffs & @projetocabrabr\\
         \bottomrule
     \end{tabular}
 \end{table}
 
 Rank | Word | Hashtag | User
 --- | --- | --- | ---
-1 | 'tear' | \#bestboyband | @davidhogg111 
-2 | rate] | \#marchforourlives | @emma4change 
-3 | marjory | \#parkland | @sjofficial 
-4 | come99 | \#ninepercent | @jewepri\_staff 
-5 | stc79 | \#nct2018 | @shindeshilpas 
-6 | 4/23 | \#greatawakening | @cameron\_kasky 
-7 | killmonger | \#poshmark | @247jimin 
-8 | descargables | \#mdrive | @neiljedcastro 
-9 | fessy | \#fakelove | @jaclyncorin 
-10 | stoneman | \#nbaplayoffs | @projetocabrabr
+1 | 'tear' | #bestboyband | @davidhogg111 
+2 | rate] | #marchforourlives | @emma4change 
+3 | marjory | #parkland | @sjofficial 
+4 | come99 | #ninepercent | @jewepri\_staff 
+5 | stc79 | #nct2018 | @shindeshilpas 
+6 | 4/23 | #greatawakening | @cameron\_kasky 
+7 | killmonger | #poshmark | @247jimin 
+8 | descargables | #mdrive | @neiljedcastro 
+9 | fessy | #fakelove | @jaclyncorin 
+10 | stoneman | #nbaplayoffs | @projetocabrabr
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
 More of these words are more associated with recurring themes,
-like tv shows (\#shameless, \#wrestlemania),
+like tv shows (#shameless, #wrestlemania),
 and album releases ("kanye's").
 These words could more feasibly be categorized as Recurring Words.
 It is important to note that the number of required appearances in both
@@ -278,16 +278,16 @@ the Known Words corpus.}
         \toprule
         Rank & Word & Hashtag & User \\
         \midrule
-        1 & 010x2163x8847 & \#bbnaija & @chuuzus \\
-        2 & gander & \#cncowners & @mariobautistamb \\
-        3 & berinteraksi & \#wrestlemania & @huniverses \\
-        4 & boo'd & \#toulouse & @vivo\_india \\
-        5 & oylar & \#backtoyou & @dismiss \\
-        6 & sdcc & \#mvsales & @baneandlewis \\
-        7 & [08 & \#shameless & @debryanshow \\
-        8 & kanye's & \#hwpl & @digvijaya\_28 \\
-        9 & currentcet & \#mbs & @soonsvt \\
-        10 & esquentar & \#stevenuniverse & @amas\\
+        1 & 010x2163x8847 & #bbnaija & @chuuzus \\
+        2 & gander & #cncowners & @mariobautistamb \\
+        3 & berinteraksi & #wrestlemania & @huniverses \\
+        4 & boo'd & #toulouse & @vivo\_india \\
+        5 & oylar & #backtoyou & @dismiss \\
+        6 & sdcc & #mvsales & @baneandlewis \\
+        7 & [08 & #shameless & @debryanshow \\
+        8 & kanye's & #hwpl & @digvijaya\_28 \\
+        9 & currentcet & #mbs & @soonsvt \\
+        10 & esquentar & #stevenuniverse & @amas\\
         \bottomrule
     \end{tabular}
 \end{table}
@@ -318,16 +318,16 @@ the Popular Words corpus.}
         \toprule
         Rank & Word & Hashtag & User \\
         \midrule
-        1 & vineyard & \#myfirsttweet & @itslifefact \\
-        2 & staan & \#cute & @wef \\
-        3 & frappe & \#hotel & @delta \\
-        4 & puas & \#nike & @giphy \\
-        5 & brasileira & \#italia & @facebook \\
-        6 & giovanna & \#southkorea & @americanair \\
-        7 & niemand & \#artist & @r\_sidney\_v \\
-        8 & vakit & \#cinema & @amazon \\
-        9 & pantera & \#government & @applesupport \\
-        10 & nyaman & \#sunrise & @ajarabic\\
+        1 & vineyard & #myfirsttweet & @itslifefact \\
+        2 & staan & #cute & @wef \\
+        3 & frappe & #hotel & @delta \\
+        4 & puas & #nike & @giphy \\
+        5 & brasileira & #italia & @facebook \\
+        6 & giovanna & #southkorea & @americanair \\
+        7 & niemand & #artist & @r\_sidney\_v \\
+        8 & vakit & #cinema & @amazon \\
+        9 & pantera & #government & @applesupport \\
+        10 & nyaman & #sunrise & @ajarabic\\
         \bottomrule
     \end{tabular}
 \end{table}
@@ -337,7 +337,7 @@ I found great story detection for the emergent words,
 but the story detection method was not sucessful in finding the story
 around shock events that weren't massive.
 Figure~\ref{Fig:GoodStory} shows the story extractor getting very good results
-for the most shocking word \#bestboyband and marjory.
+for the most shocking word #bestboyband and marjory.
 Most of the success in detecting these emerging stories stems from the
 likelihood that the words associated with the shocking words had also
 never entered the daily ranks before.
@@ -357,7 +357,7 @@ mean square error was a fantastic choice for story differentiation.
         \includegraphics[width=\textwidth]{marjory-2018-shock-event-comparison.jpg}
     \end{subfigure}
     \caption{\label{Fig:GoodStory} The 10 words with the smallest mean square
-error with respect to the shocking words \#bestboyband (on the top) and 
+error with respect to the shocking words #bestboyband (on the top) and 
 marjory (on the bottom).}
 \end{figure}
 
