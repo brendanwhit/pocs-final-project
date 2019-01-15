@@ -78,8 +78,8 @@ we have shown that the calculation of our expected ranks from the prior
 
 <p align="middle">
  <figure>
-  <img src="plots/killmonger-2018.jpg" width="100" />
-  <img src="plots/killmonger-2018-baseline-comparison.jpg" width="100" />
+  <img src="plots/killmonger-2018.jpg"/>
+  <img src="plots/killmonger-2018-baseline-comparison.jpg"/>
   <figcaption> Figure 1: Two different applications of baseline
   calculations on the same "killmonger" rank data. The dashed lines
   in both plots represent the median for each date. The red area
@@ -88,6 +88,11 @@ we have shown that the calculation of our expected ranks from the prior
   data in 2018. </figcaption>
  </figure>
 </p>
+
+A | B
+--- | ---
+This is a test | of the caption
+[caption test][test]
 
 The final step for the shock event detection was determining the size for
 each continuous event.
