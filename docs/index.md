@@ -242,7 +242,7 @@ the Emergent Words corpus.}
     \end{tabular}
 \end{table}
 
-[Table 1: The 10 most shocking words in each category for the Emergent Words corpus]
+[]
 Rank | Word | Hashtag | User
 --- | --- | --- | ---
 1 | 'tear' | #bestboyband | @davidhogg111 
@@ -256,7 +256,75 @@ Rank | Word | Hashtag | User
 9 | fessy | #fakelove | @jaclyncorin 
 10 | stoneman | #nbaplayoffs | @projetocabrabr
 
-
+<table>
+<caption> Table 1: The 10 most shocking words in each category for the Emergent
+Words corpus </caption>
+<tr>
+<th> Rank </th>
+<th> Word </th>
+<th> Hashtag </th>
+<th> User </th>
+</tr>
+<tr>
+<td> 1 </td>
+<td> 'tear' </td>
+<td> #bestboyband </td>
+<td> @davidhogg111 </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> rate] </td>
+<td> #marchforourlives </td>
+<td> @emma4change </td>
+</tr>
+<td> 3 </td>
+<td> marjory </td>
+<td> #parkland </td>
+<td> @sjofficial </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> come99 </td>
+<td> #ninepercent </td>
+<td> @jewepri_staff </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> stc79 </td>
+<td> #nct2018 </td>
+<td> @shindeshilpas </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> 4/23 </td>
+<td> #greatawakening </td>
+<td> @cameron_kasky </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> killmonger </td>
+<td> #poshmark </td>
+<td> @247jimin </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> descargables </td>
+<td> #mdrive </td>
+<td> @neiljedcastro </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> fessy </td>
+<td> #fakelove </td>
+<td> @jaclyncorin </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> stoneman </td>
+<td> #nbaplayoffs </td>
+<td> @projetocabrabr </td>
+</tr>
+</table>
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
@@ -346,19 +414,13 @@ also exhibit such a large rise.
 Therefore,
 mean square error was a fantastic choice for story differentiation.
 
-\begin{figure}
-    \centering
-    \begin{subfigure}{0.85\textwidth}
-        \includegraphics[width=\textwidth]{bestboyband-2018-shock-event-comparison.jpg}
-    \end{subfigure}
+{% include image.html url="plots/bestboyband-2018-shock-event-comparison.jpg"
+description="" %}
+{% include image.html url="plots/marjory-2018-shock-event-comparison.jpg"
+description="Figure 4: The 10 words with the smallest mean square error with
+respect to the shocking words #bestboyband (on the top) and marjory (on the 
+bottom)." %}
 
-    \begin{subfigure}{0.85\textwidth}
-        \includegraphics[width=\textwidth]{marjory-2018-shock-event-comparison.jpg}
-    \end{subfigure}
-    \caption{\label{Fig:GoodStory} The 10 words with the smallest mean square
-error with respect to the shocking words #bestboyband (on the top) and 
-marjory (on the bottom).}
-\end{figure}
 
 When the story finder method is applied to the more popular words,
 we do not get the striking results observed from the emergent word analysis.
