@@ -333,67 +333,66 @@ Words corpus </caption>
 <th> User </th>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 1 </td>
+<td> 010x2163x8847 </td>
+<td> #bbnaija </td>
+<td> @chuuzus </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 2 </td>
+<td> gander </td>
+<td> #cncowners </td>
+<td> @mariobautistamb </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 3 </td>
+<td> berinteraski </td>
+<td> #wrestlemania </td>
+<td> @huniverses </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 4 </td>
+<td> boo'd </td>
+<td> #toulouse </td>
+<td> @vivo_india </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 5 </td>
+<td> oylar </td>
+<td> #backtoyou </td>
+<td> @dismiss </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 6 </td>
+<td> sdcc </td>
+<td> #mvsales </td>
+<td> @baneandlewis </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 7  </td>
+<td> [08 </td>
+<td> #shameless </td>
+<td> @debryanshow </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 8  </td>
+<td> kayne's </td>
+<td> #hwpl </td>
+<td> @digvijaya_28 </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 9 </td>
+<td> currentcet </td>
+<td> #mbs </td>
+<td> @soonsvt </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 10 </td>
+<td> esquentar </td>
+<td> #stevenuniverse </td>
+<td> @amas </td>
 </tr>
 </table>
-
 
 Table 3 is the final table representing the top ten shocking words
 in each category among the words that were in the top 100000 rankings every
@@ -445,64 +444,64 @@ Words corpus </caption>
 <th> User </th>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 1 </td>
+<td> vineyard </td>
+<td> #myfirsttweet </td>
+<td> @itslifefact </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 2 </td>
+<td> staan </td>
+<td> #cute </td>
+<td> @wef </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 3 </td>
+<td> frappe </td>
+<td> #hotel </td>
+<td> @delta </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 4 </td>
+<td> puas </td>
+<td> #nike </td>
+<td> @giphy </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 5 </td>
+<td> brasiliera </td>
+<td> #italia </td>
+<td> @facebook </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 6 </td>
+<td> giovanna </td>
+<td> #southkorea </td>
+<td> @americanair </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 7 </td>
+<td> niemand </td>
+<td> #artist </td>
+<td> @r_sidney_v </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 8 </td>
+<td> vakit </td>
+<td> #cinema </td>
+<td> @amazon </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 9 </td>
+<td> pantera </td>
+<td> #government </td>
+<td> @applesupport </td>
 </tr>
 <tr>
-<td>  </td>
-<td>  </td>
-<td> # </td>
-<td> @ </td>
+<td> 10 </td>
+<td> nyaman </td>
+<td> #sunrise </td>
+<td> @ajarabic </td>
 </tr>
 </table>
 
