@@ -179,21 +179,18 @@ emergence (hence the name).
 
 The official most shocking word in 2018 according the word rank plots is
 #bestboyband. 
-Figure~\ref{Fig:bestboyband} shows the rank plot of the word #bestboyband in
+Figure 3 shows the rank plot of the word #bestboyband in
 normal scaling and log scaling.
-\begin{figure}
-    \centering
-    \begin{subfigure}{0.45\textwidth}
-        \includegraphics[width=\textwidth]{bestboyband-2018.jpg}
-    \end{subfigure}
-    ~
-    \begin{subfigure}{0.45\textwidth}
-        \includegraphics[width=\textwidth]{bestboyband-2018-LOG.jpg}
-    \end{subfigure}
-    \caption{\label{Fig:bestboyband} The rise to fame of the word #bestboyband
-in 2018.  The figure on the left is the rise plotted on a normal scale.
-The figure on the right is plotted on log scale.}
-\end{figure}
+
+<p align="middle">
+ <figure>
+  <img src="plots/bestboyband-2018.jpg" style="float: left; width: 48%; margin-right: 1%"/><img src="plots/bestboyband-2018-LOG.jpg" style="float: left; width: 48%; margin-right: 1%"/>
+  <figcaption> Figure 3: The rise to fame of the word #bestboyband
+  in 2018.  The figure on the left is the rise plotted on a normal scale.
+  The figure on the right is plotted on log scale. </figcaption>
+ </figure>
+</p>
+
 #bestboyband jumped from nothingness to inside the top 100 words in the middle
 of January.
 It remained within the top 1000 words on Twitter until the shock detection
@@ -245,6 +242,7 @@ the Emergent Words corpus.}
     \end{tabular}
 \end{table}
 
+[Table 1: The 10 most shocking words in each category for the Emergent Words corpus]
 Rank | Word | Hashtag | User
 --- | --- | --- | ---
 1 | 'tear' | #bestboyband | @davidhogg111 
@@ -257,7 +255,7 @@ Rank | Word | Hashtag | User
 8 | descargables | #mdrive | @neiljedcastro 
 9 | fessy | #fakelove | @jaclyncorin 
 10 | stoneman | #nbaplayoffs | @projetocabrabr
-[Table 1: The 10 most shocking words in each category for the Emergent Words corpus]
+
 
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
