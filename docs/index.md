@@ -483,6 +483,16 @@ description="Figure 4: The 10 words with the smallest mean square error with
 respect to the shocking words #bestboyband (on the top) and marjory (on the 
 bottom)." %}
 
+<p align="middle">
+ <figure>
+  <img src="plots/bestboyband-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/><img src="plots/marjory-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/>
+  <figcaption> Figure 4: The 10 words with the smallest mean square error with
+respect to the shocking words #bestboyband (on the left) and marjory (on the
+right). </figcaption>
+ </figure>
+</p>
+
+
 
 When the story finder method is applied to the more popular words,
 we do not get the striking results observed from the emergent word analysis.
@@ -502,6 +512,16 @@ description="" %}
 description="Figure 5: The 10 words with the smallest mean square error with
 respect to the shocking words knaye's (on the top) and frappe (on the 
 bottom)." %}
+
+<p align="middle">
+ <figure>
+  <img src="plots/kanye's-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/><img src="plots/frappe-2018-shock-event-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/>
+  <figcaption> Figure 5: The 10 words with the smallest mean square error with
+respect to the shocking words kanye's (on the left) and frappe (on the
+right). </figcaption>
+ </figure>
+</p>
+
 
 ## Future Work
 
