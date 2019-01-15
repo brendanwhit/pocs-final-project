@@ -109,7 +109,7 @@ I recorded the maximum shock event for each word to determine the most shocking
 words.
 
 {% include image.html url="plots/rip-2018.jpg" description="Figure 2: An 
-example of a word, "rip", that has multiple shock events in 2018." %}
+example of a word, 'rip', that has multiple shock events in 2018." %}
 
 With the formulas for finding shocking events and calculating the magnitude of
 the maximum event for each word,
