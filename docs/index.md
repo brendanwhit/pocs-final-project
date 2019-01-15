@@ -78,8 +78,8 @@ we have shown that the calculation of our expected ranks from the prior
 
 <p align="middle">
  <figure>
-  <img src="plots/killmonger-2018.jpg"/>
-  <img src="plots/killmonger-2018-baseline-comparison.jpg"/>
+  <img src="plots/killmonger-2018.jpg" width="100"/>
+  <img src="plots/killmonger-2018-baseline-comparison.jpg" width="100"/>
   <figcaption> Figure 1: Two different applications of baseline
   calculations on the same "killmonger" rank data. The dashed lines
   in both plots represent the median for each date. The red area
