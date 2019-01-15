@@ -62,7 +62,7 @@ each data based on the previous 6 months of rank data.
 
 An example of where calculating the baseline from the full range of data 
 obscuring a shocking event is with the word "killmonger".
-Figure~\ref{Fig:killmonger} indicates how calulating the baseline from the full
+Figure 1 indicates how calulating the baseline from the full
 range of data,
 represented by the blue shadow,
 hides the shocking rise of "killmonger".  
@@ -76,22 +76,18 @@ Therefore,
 we have shown that the calculation of our expected ranks from the prior
 6 months is a useful technique.
 
-\begin{figure}
-    \centering
-    \begin{subfigure}{0.45\textwidth}
-        \includegraphics[width=\textwidth]{killmonger-2018.jpg}
-    \end{subfigure}
-    ~
-    \begin{subfigure}{0.45\textwidth}
-        \includegraphics[width=\textwidth]{killmonger-2018-baseline-comparison.jpg}
-    \end{subfigure}
-    \caption{\label{Fig:killmonger} Two different applications of
-    baseline caclulations on the same "killmonger" rank data. The dashed lines
-    in both plots represent the median for each date. The red area
-    represents the baseline calculated from the prior 6 months of word
-    rank data.  The blue area represents the baseline calculated from all the
-    data in 2018.}
-\end{figure}
+<p align="middle">
+ <figure>
+  <img src="plots/killmonger-2018.jpg"/>
+  <img src="plots/killmonger-2018-baseline-comparison.jpg"/>
+  <figcaption> Figure 1: Two different applications of baseline
+  calculations on the same "killmonger" rank data. The dashed lines
+  in both plots represent the median for each date. The red area
+  represents the baseline calculated from the prior 6 months of word
+  rank data.  The blue area represents the baseline calculated from all the
+  data in 2018. </figcaption>
+ </figure>
+</p>
 
 The final step for the shock event detection was determining the size for
 each continuous event.
