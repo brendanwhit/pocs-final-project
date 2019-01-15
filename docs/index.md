@@ -220,42 +220,6 @@ except for #nbaplayoffs,
 had never reached the top 100000 ranks for Twitter before their emergence
 into the daily ranks.
 
-\begin{table}
-    \centering
-    \caption{\label{Tab:Emergent} The 10 most shocking words in each category for 
-the Emergent Words corpus.}
-    \begin{tabular}{clll}
-        \toprule
-        Rank & Word & Hashtag & User \\
-        \midrule
-        1 & `tear' & #bestboyband & @davidhogg111 \\
-    2 & rate] & #marchforourlives & @emma4change \\
-        3 & marjory & #parkland & @sjofficial \\
-        4 & come99 & #ninepercent & @jewepri\_staff \\
-        5 & stc79 & #nct2018 & @shindeshilpas \\
-        6 & 4/23 & #greatawakening & @cameron\_kasky \\
-        7 & killmonger & #poshmark & @247jimin \\
-        8 & descargables & #mdrive & @neiljedcastro \\
-        9 & fessy & #fakelove & @jaclyncorin \\
-        10 & stoneman & #nbaplayoffs & @projetocabrabr\\
-        \bottomrule
-    \end{tabular}
-\end{table}
-
-[]
-Rank | Word | Hashtag | User
---- | --- | --- | ---
-1 | 'tear' | #bestboyband | @davidhogg111 
-2 | rate] | #marchforourlives | @emma4change 
-3 | marjory | #parkland | @sjofficial 
-4 | come99 | #ninepercent | @jewepri\_staff 
-5 | stc79 | #nct2018 | @shindeshilpas 
-6 | 4/23 | #greatawakening | @cameron\_kasky 
-7 | killmonger | #poshmark | @247jimin 
-8 | descargables | #mdrive | @neiljedcastro 
-9 | fessy | #fakelove | @jaclyncorin 
-10 | stoneman | #nbaplayoffs | @projetocabrabr
-
 <table>
 <caption> Table 1: The 10 most shocking words in each category for the Emergent
 Words corpus </caption>
@@ -326,7 +290,7 @@ Words corpus </caption>
 </tr>
 </table>
 
-Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
+Table 2 is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
 More of these words are more associated with recurring themes,
 like tv shows (#shameless, #wrestlemania),
@@ -359,7 +323,79 @@ the Known Words corpus.}
     \end{tabular}
 \end{table}
 
-Table~\ref{Tab:Popular} is the final table representing the top ten shocking words
+<table>
+<caption> Table 2: The 10 most shocking words in each category for the Known
+Words corpus </caption>
+<tr>
+<th> Rank </th>
+<th> Word </th>
+<th> Hashtag </th>
+<th> User </th>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+</table>
+
+
+Table 3 is the final table representing the top ten shocking words
 in each category among the words that were in the top 100000 rankings every
 day.
 One very evident trend is the usernames are almost exclusively large tech
@@ -398,6 +434,78 @@ the Popular Words corpus.}
         \bottomrule
     \end{tabular}
 \end{table}
+
+<table>
+<caption> Table 3: The 10 most shocking words in each category for the Popular
+Words corpus </caption>
+<tr>
+<th> Rank </th>
+<th> Word </th>
+<th> Hashtag </th>
+<th> User </th>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> # </td>
+<td> @ </td>
+</tr>
+</table>
+
 
 For the story extraction,
 I found great story detection for the emergent words,
