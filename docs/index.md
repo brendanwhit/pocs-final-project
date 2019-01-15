@@ -110,14 +110,9 @@ Once each shock event was separated,
 the area between the lower bound and the ranks was calculated using
 trapezoidal integration because the data is discrete.
 The formula for trapezoidal integration used:
-\[
-    \int_a^b
-    \approx
-    \frac{b-a}{2}
-    \left[
-        f(a)+f(b)
-    \right]
-\]
+
+<center><a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\int_a^b&space;\approx&space;\frac{b-a}{2}&space;\left[&space;f(a)&plus;f(b)&space;\right]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\int_a^b&space;\approx&space;\frac{b-a}{2}&space;\left[&space;f(a)&plus;f(b)&space;\right]" title="\large \int_a^b \approx \frac{b-a}{2} \left[ f(a)+f(b) \right]" /></a></center>
+
 After calculating the area of each shock event,
 I recorded the maximum shock event for each word to determine the most shocking
 words.
