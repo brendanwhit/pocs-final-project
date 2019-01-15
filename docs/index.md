@@ -258,7 +258,7 @@ Rank | Word | Hashtag | User
 9 | fessy | \#fakelove | @jaclyncorin 
 10 | stoneman | \#nbaplayoffs | @projetocabrabr
 [Table 1: The 10 most shocking words in each category for the Emergent Word
-corpus]
+corpus][tab-1]
 
 
 
