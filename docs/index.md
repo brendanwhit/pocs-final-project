@@ -78,8 +78,8 @@ we have shown that the calculation of our expected ranks from the prior
 
 <p align="middle">
  <figure>
-  <img src="plots/killmonger-2018.jpg"/>
-  <img src="plots/killmonger-2018-baseline-comparison.jpg"/>
+  <img src="plots/killmonger-2018.jpg" width="100" />
+  <img src="plots/killmonger-2018-baseline-comparison.jpg" width="100" />
   <figcaption> Figure 1: Two different applications of baseline
   calculations on the same "killmonger" rank data. The dashed lines
   in both plots represent the median for each date. The red area
@@ -93,15 +93,9 @@ The final step for the shock event detection was determining the size for
 each continuous event.
 To do that,
 the shock events were first separated if there were multiple events.
-Figure~\ref{Fig:rip} represents the rank plot for the word "rip",
+Figure 2 represents the rank plot for the word "rip",
 which has multiple spikes throughout 2018,
 as an example of where a single word can have multiple shock events.
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=0.48\textwidth]{rip-2018.jpg}
-    \caption{\label{Fig:rip} An example of a word, "rip",
-that has multiple shock events in 2018.}
-\end{figure}
 Once each shock event was separated,
 the area between the lower bound and the ranks was calculated using
 trapezoidal integration because the data is discrete.
@@ -112,6 +106,9 @@ The formula for trapezoidal integration used:
 After calculating the area of each shock event,
 I recorded the maximum shock event for each word to determine the most shocking
 words.
+
+{% include image.html url="plots/rip-2018.jpg" description="Figure 2: An 
+example of a word, "rip", that has multiple shock events in 2018." %}
 
 With the formulas for finding shocking events and calculating the magnitude of
 the maximum event for each word,
