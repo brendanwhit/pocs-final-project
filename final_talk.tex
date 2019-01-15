@@ -1,0 +1,96 @@
+\documentclass{beamer}
+\usetheme{Boadilla}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+\graphicspath{{plots/}}
+
+\title{Detecting Shocking Events on Twitter}
+\subtitle{Or More Accurately Finding New Words on Twitter}
+\author{Brendan Whitney}
+\date{Tuesday, December 11th}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{What Happened}
+    \begin{itemize}
+        \item Used Rank data from Twitter
+        \begin{itemize}
+            \item Top 100000 words for each day
+        \end{itemize}
+        \item Calculated median and IQR for previous 6 months
+        \item Set cutoff at $25\% - 1.5 * IQR$
+        \begin{itemize}
+            \item Ranks that went below this were "shocking"
+            \item Calculated the area between the actual ranks and the lower bound
+            \begin{itemize}
+                \item Shock Event Score
+            \end{itemize}
+        \end{itemize}
+        \item Recorded the largest shock event for each word
+        \item Minimized mean square error of the events to find the "story"
+    \end{itemize}
+\end{frame}
+
+
+\begin{frame}{Rank Example}
+    \includegraphics[width=0.9\textwidth]{khashoggi-2018.jpg}
+\end{frame}
+
+\begin{frame}{Most Shocking Word}
+    \includegraphics[width=0.9\textwidth]{bestboyband-2018.jpg}
+\end{frame}
+
+\begin{frame}{Most Shocking Word}
+    \includegraphics[width=0.9\textwidth]{bestboyband-2018-LOG.jpg}
+\end{frame}
+
+\begin{frame}{Story Detection}
+  \includegraphics[width=0.9\textwidth]{marjory-2018.jpg}
+\end{frame}
+
+\begin{frame}{Story Detection}
+  \includegraphics[width=0.9\textwidth]{marjory-2018-shock-event-comparison.jpg}
+\end{frame}
+
+\begin{frame}{Initial Results}
+    \begin{tabular}{clll}
+        \toprule
+        Rank & Word & Hashtag & User \\
+        \midrule
+        1 & `tear' & \#bestboyband & @davidhogg111 \\
+    2 & rate] & \#marchforourlives & @emma4change \\
+        3 & marjory & \#parkland & @sjofficial \\
+        4 & come99 & \#ninepercent & @jewepri\_staff \\
+        5 & stc79 & \#nct2018 & @shindeshilpas \\
+        6 & 4/23 & \#greatawakening & @cameron\_kasky \\
+        7 & killmonger & \#poshmark & @247jimin \\
+        8 & descargables & \#mdrive & @neiljedcastro \\
+        9 & fessy & \#fakelove & @jaclyncorin \\
+        10 & stoneman & \#nbaplayoffs & @projetocabrabr\\
+        \bottomrule
+    \end{tabular}
+\end{frame}
+
+\begin{frame}{Known Words Results}
+    \begin{tabular}{clll}
+        \toprule
+        Rank & Word & Hashtag & User \\
+        \midrule
+        1 & 010x2163x8847 & \#bbnaija & @chuuzus \\
+        2 & gander & \#cncowners & @mariobautistamb \\
+        3 & berinteraksi & \#wrestlemania & @huniverses \\
+        4 & boo'd & \#toulouse & @vivo\_india \\
+        5 & oylar & \#backtoyou & @dismiss \\
+        6 & sdcc & \#mvsales & @baneandlewis \\
+        7 & [08 & \#shameless & @debryanshow \\
+        8 & kanye's & \#hwpl & @digvijaya\_28 \\
+        9 & currentcet & \#mbs & @soonsvt \\
+        10 & esquentar & \#stevenuniverse & @amas\\
+        \bottomrule
+    \end{tabular}
+\end{frame}
+
+\end{document}
