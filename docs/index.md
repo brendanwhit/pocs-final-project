@@ -78,7 +78,7 @@ we have shown that the calculation of our expected ranks from the prior
 
 <p align="middle">
  <figure>
-  <img src="plots/killmonger-2018.jpg" width="100"/><img src="plots/killmonger-2018-baseline-comparison.jpg" width="100"/>
+  <img src="plots/killmonger-2018.jpg" style="float: left; width: 48%; margin-right: 1%"/><img src="plots/killmonger-2018-baseline-comparison.jpg" style="float: left; width: 48%; margin-right: 1%"/>
   <figcaption> Figure 1: Two different applications of baseline
   calculations on the same "killmonger" rank data. The dashed lines
   in both plots represent the median for each date. The red area
@@ -258,7 +258,7 @@ Rank | Word | Hashtag | User
 9 | fessy | #fakelove | @jaclyncorin 
 10 | stoneman | #nbaplayoffs | @projetocabrabr
 [Table 1: The 10 most shocking words in each category for the Emergent Words
-corpus]
+corpus][tab-1]
 
 Table~\ref{Tab:Known} is the same table as Table~\ref{Tab:Emergent},
 however the data is now for the Known Words corpus analyzed on the VACC.
