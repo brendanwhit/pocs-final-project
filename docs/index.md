@@ -40,12 +40,12 @@ we don't want prior events to potentially overshadow future shock events.
 In addition to determining the median,
 we will use the interquartile range (IQR) as the measure of spread for
 which the word should appear.
-The IQR represents the range that the middle 50\% of the data occupies,
+The IQR represents the range that the middle 50% of the data occupies,
 which is a bit narrow to detect outliers.
 Thus,
 to increase the scope of the baseline,
 we consider any date where the word has a rank lower than
-$1.5\cdot IQR$ below the 25th percentile to be a shocking appearance of the
+1.5&sdot;IQR below the 25th percentile to be a shocking appearance of the
 word.
 This metric is commonly used on box-and-whisker plots as a cutoff for outliers.
 It is important to reiterate that a low rank indicates more frequent usage of
@@ -470,7 +470,7 @@ for the most shocking word #bestboyband and marjory.
 Most of the success in detecting these emerging stories stems from the
 likelihood that the words associated with the shocking words had also
 never entered the daily ranks before.
-That coupled with the extremely steep rise from $100001$ to under $1000$ for
+That coupled with the extremely steep rise from 100001 to under 1000 for
 both words meant that the squared errors harshly punished words that did not
 also exhibit such a large rise.
 Therefore,
